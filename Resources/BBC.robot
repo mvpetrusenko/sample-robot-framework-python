@@ -7,7 +7,7 @@ Resource    PO/Category.robot
 
 *** Keywords ***
 Sign Into Account
-    Input Credentials    mariiape3330@gmail.com    mariiape333$$$
+    Input Valid Credentials    mariiape3330@gmail.com    mariiape333$$$
 
 
 Enter invalid password
